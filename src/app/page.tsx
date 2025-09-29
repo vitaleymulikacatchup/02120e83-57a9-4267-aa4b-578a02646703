@@ -1,4 +1,4 @@
-use client
+"use client";
 import { SiteTheme, SiteThemeProvider } from '@/components/sections/ThemeProvider';
 import NavbarLayoutSplitBottom from '@/components/navigation/NavbarLayoutSplitBottom/NavbarLayoutSplitBottom';
 import TokenBillboardHero from '@/components/sections/layouts/hero/TokenBillboardHero';
@@ -38,8 +38,7 @@ export default function Home() {
       </div>
       <div id="about" data-section="about" className="scroll-mt-24">
         <SplitAbout
-          description="MemePulse empowers community-driven crypto projects, promoting transparency and growth.
-          Join us as we build the future of memecoins, where everyone is a part of our journey!"
+          description="MemePulse empowers community-driven crypto projects, promoting transparency and growth. Join us as we build the future of memecoins, where everyone is a part of our journey!"
         />
       </div>
       <div id="how-to-buy" data-section="how-to-buy" className="scroll-mt-24">
