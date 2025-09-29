@@ -1,6 +1,6 @@
 "use client";
 import { SiteTheme, SiteThemeProvider } from '@/components/sections/ThemeProvider';
-import NavbarLayoutSplitBottom from '@/components/navigation/NavbarLayoutSplitBottom';
+import NavbarLayoutSplitBottom from '@/components/navigation/NavbarLayoutSplitBottom/NavbarLayoutSplitBottom';
 import TokenBillboardHero from '@/components/sections/layouts/hero/TokenBillboardHero';
 import SplitAbout from '@/components/sections/layouts/about/SplitAbout';
 import HowToBuy2D from '@/components/sections/layouts/howtobuy/2DHTB';
